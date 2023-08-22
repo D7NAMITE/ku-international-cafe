@@ -14,7 +14,7 @@
 
 ## Indian Food 
 | Name                    | Description                       | Price(THB)    |
-|:------------------------|-----------------------------------|---------------|
+|------------------------|-----------------------------------|---------------|
 | Chicken Tikka Masala    | Tender chicken pieces marinated in spices, yogurt, and grilled until flavorful. Served in a rich tomato-based sauce with aromatic spices and cream. Often accompanied by rice or Indian bread.                                  | 150           |
 | Paneer Tikka            | Cubes of paneer (Indian cottage cheese) marinated in a spiced yogurt mixture, then grilled or cooked until golden. Served with mint chutney and onions.                                  | 150           |
 | Biryani                 | Fragrant rice dish cooked with aromatic spices, saffron, and a choice of meat (like chicken, lamb, or shrimp) or vegetables. Biryani is typically layered and slow-cooked to infuse flavors.                                  | 100           |
@@ -23,7 +23,7 @@
 
 ## Korean Food
 | Name             | Description                                                                                                                                                                 | Price(THB) |
-|:-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Bibimbap (비빔밥)   | Bibimbap is a colorful mixed rice dish topped with various sautéed vegetables, meat (usually beef), a fried egg, and spicy red pepper paste.                                | 99         |
 | Kimchi (김치)      | Kimchi is a fermented vegetable dish, typically made with Napa cabbage and Korean radishes, seasoned with a mixture of garlic, ginger, red pepper flakes, and other spices. | 99         |
 | Bulgogi (불고기)    | Bulgogi is marinated and thinly sliced beef that is usually grilled or pan-fried.                                                                                           | 159        |
@@ -32,7 +32,7 @@
 
 ## Healthy Food
 |            Name             | Description                                                                                                            | Price(THB)  |
-|:---------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------|
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------|
 |    Greek Yogurt Parfait     | Layer Greek yogurt with fresh berries and chopped nuts.                                                                |     120     
 |     Tuna Lettuce Wraps      | Mix tuna with avocado mayo, diced celery and onion. Serve in butter lettuce leaves.                                    |     140     
 | Roasted Veggie Quinoa Bowl  | Toss cauliflower, broccoli, sweet potato, and chickpeas in olive oil and spices. Roast in the oven. Serve over quinoa. |     140     
