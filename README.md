@@ -1,9 +1,11 @@
-# KU Internation 
+# KU International Cafe
 
-Write a one or two sentence description of your cafe.
+The best cuisines from every conner around the globe
 
 ## [Menu](menu.md)
 
-| Cuisine      | Contributor |
-|:-------------|-------------|
+
+| Cuisine     | Contributor             |
+|:------------|-------------------------|
+| Korean Food | Tantikon Phasanphaengsi |
 | Healthy Food | Krittin     |
