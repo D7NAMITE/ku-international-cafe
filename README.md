@@ -2,8 +2,8 @@
 
 The best cuisines from every conner around the globe.
 
-## [Menu](menu.md)
-
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-| Indiain Food                          | Phumrapee          |
+| Cuisine     | Contributor             |
+|:------------|-------------------------|
+| Korean Food | Tantikon Phasanphaengsi |
+| Healthy Food | Krittin Setchavanich |
+| Indiain Food | Phumrapee Chaowanapricha|
