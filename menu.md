@@ -1,7 +1,17 @@
 # KU Cafe Menu
-[Healthy Food Section](#healthy-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | [Thai Food](#thai-food)
+[Desserts Section](#desserts) | [Healthy Food Section](#healthy-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | [Thai Food](#thai-food)
 
+## First Food Section
 
+## Desserts
+
+| Name                | Description                                                                            | Price(THB) |
+|---------------------|----------------------------------------------------------------------------------------|------------|
+| Chocolate Lava Cake | Chocolate lava cake served warm with a molten chocolate center.                        | 130        
+| Mango Tango Parfait | Layers of ripe mango chunks, creamy vanilla yogurt, and crunchy granola come together. | 150        |
+| Classic Tiramisu    | A timeless Italian dessert featuring layers of delicate coffee-soaked ladyfingers.     | 200        |
+| Mixed Berry Pavlova | A delicate meringue nest filled with a luscious combination of fresh strawberries, blueberries, and raspberries. | 240        |
+| Nutty Caramel Panna Cotta | Silky-smooth caramel-infused panna cotta topped with a generous sprinkle of chopped mixed nuts, adding a delightful crunch to every creamy spoonful.   | 120        |
 
 ## Indian Food 
 | Name                    | Description                       | Price(THB)    |
@@ -38,3 +48,4 @@
 | Green Curry    | A Thai curry made with a green chili paste, coconut milk, and a variety of vegetables and meat (like chicken or pork). It's known for its vibrant green color and distinct flavor profile, which balances spiciness, sweetness, and creaminess.                                             | 70         |
 | Som Tum        | A refreshing and spicy salad made with shredded green papaya, tomatoes, green beans, peanuts, and chili peppers. The dressing usually includes lime juice, fish sauce, garlic, and palm sugar.                                                                                              | 60         |
 | Massaman Curry | A rich and relatively mild Thai curry that has its roots in Persian cuisine. It's made with a fragrant blend of spices like cardamom, cinnamon, and star anise, along with coconut milk, potatoes, and your choice of meat. It strikes a balance between savory and slightly sweet flavors. | 80         |
+
