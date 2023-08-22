@@ -1,9 +1,9 @@
-# Name of Your Cafe
+## KU International Cafe
 
-Write a one or two sentence description of your cafe.
+[Desserts Section](#Desserts) | ...
 
 ## [Menu](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                                       |                    |
+| Cuisine  | Contributor |
+|:---------|-------------|
+| Desserts | Yanatchara  |
