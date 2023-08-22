@@ -10,4 +10,4 @@ The best cuisines from every conner around the globe.
 | Healthy Food | Krittin Setchavanich |
 | Indiain Food | Phumrapee Chaowanapricha|
 | Thai Food | Nanthawat Duang-ead |
-| Desserts | Yanatchara  |
+| Desserts | Yanatchara  Jeraja |
