@@ -2,24 +2,6 @@
 
 [Korean Food](#korean-food) | [Healthy Food Section](#healthy-food) | [Indian Food](#indian-food) | [Thai Food](#thai-food) | [Desserts Section](#desserts)
 
-## Desserts
-
-| Name                | Description                                                                            | Price(THB) |
-|---------------------|----------------------------------------------------------------------------------------|------------|
-| Chocolate Lava Cake | Chocolate lava cake served warm with a molten chocolate center.                        | 130        
-| Mango Tango Parfait | Layers of ripe mango chunks, creamy vanilla yogurt, and crunchy granola come together. | 150        |
-| Classic Tiramisu    | A timeless Italian dessert featuring layers of delicate coffee-soaked ladyfingers.     | 200        |
-| Mixed Berry Pavlova | A delicate meringue nest filled with a luscious combination of fresh strawberries, blueberries, and raspberries. | 240        |
-| Nutty Caramel Panna Cotta | Silky-smooth caramel-infused panna cotta topped with a generous sprinkle of chopped mixed nuts, adding a delightful crunch to every creamy spoonful.   | 120        |
-
-## Indian Food 
-| Name                    | Description                       | Price(THB)    |
-|------------------------|-----------------------------------|---------------|
-| Chicken Tikka Masala    | Tender chicken pieces marinated in spices, yogurt, and grilled until flavorful. Served in a rich tomato-based sauce with aromatic spices and cream. Often accompanied by rice or Indian bread.                                  | 150           |
-| Paneer Tikka            | Cubes of paneer (Indian cottage cheese) marinated in a spiced yogurt mixture, then grilled or cooked until golden. Served with mint chutney and onions.                                  | 150           |
-| Biryani                 | Fragrant rice dish cooked with aromatic spices, saffron, and a choice of meat (like chicken, lamb, or shrimp) or vegetables. Biryani is typically layered and slow-cooked to infuse flavors.                                  | 100           |
-| Samosa                  | Triangular pastry filled with a mixture of spiced potatoes, peas, and sometimes minced meat. Deep-fried until crispy and served with chutneys for dipping.                                  | 75            |
-| Masala Dosa             | A thin, crispy crepe made from fermented rice and lentil batter, filled with a spiced potato mixture. Served with coconut chutney and sambar (a lentil-based vegetable stew).                                  | 99            |
 
 ## Korean Food
 | Name             | Description                                                                                                                                                                 | Price(THB) |
@@ -39,6 +21,16 @@
 |        Salmon Salad         | Flake cooked salmon and mix with spinach, cherry tomatoes, basil, lemon juice and olive oil.                           |     130     
 |       Overnight Oats        | Mix oats with milk and chia seeds. Refrigerate overnight. Top with peanut butter and bananas before eating.            |     130     
 
+## Indian Food 
+| Name                    | Description                       | Price(THB)    |
+|------------------------|-----------------------------------|---------------|
+| Chicken Tikka Masala    | Tender chicken pieces marinated in spices, yogurt, and grilled until flavorful. Served in a rich tomato-based sauce with aromatic spices and cream. Often accompanied by rice or Indian bread.                                  | 150           |
+| Paneer Tikka            | Cubes of paneer (Indian cottage cheese) marinated in a spiced yogurt mixture, then grilled or cooked until golden. Served with mint chutney and onions.                                  | 150           |
+| Biryani                 | Fragrant rice dish cooked with aromatic spices, saffron, and a choice of meat (like chicken, lamb, or shrimp) or vegetables. Biryani is typically layered and slow-cooked to infuse flavors.                                  | 100           |
+| Samosa                  | Triangular pastry filled with a mixture of spiced potatoes, peas, and sometimes minced meat. Deep-fried until crispy and served with chutneys for dipping.                                  | 75            |
+| Masala Dosa             | A thin, crispy crepe made from fermented rice and lentil batter, filled with a spiced potato mixture. Served with coconut chutney and sambar (a lentil-based vegetable stew).                                  | 99            |
+
+
 ## Thai Food
 | Name           | Description                                                                                                                                                                                                                                                                                 | Price(THB) |
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -47,4 +39,15 @@
 | Green Curry    | A Thai curry made with a green chili paste, coconut milk, and a variety of vegetables and meat (like chicken or pork). It's known for its vibrant green color and distinct flavor profile, which balances spiciness, sweetness, and creaminess.                                             | 70         |
 | Som Tum        | A refreshing and spicy salad made with shredded green papaya, tomatoes, green beans, peanuts, and chili peppers. The dressing usually includes lime juice, fish sauce, garlic, and palm sugar.                                                                                              | 60         |
 | Massaman Curry | A rich and relatively mild Thai curry that has its roots in Persian cuisine. It's made with a fragrant blend of spices like cardamom, cinnamon, and star anise, along with coconut milk, potatoes, and your choice of meat. It strikes a balance between savory and slightly sweet flavors. | 80         |
+
+## Desserts
+
+| Name                | Description                                                                            | Price(THB) |
+|---------------------|----------------------------------------------------------------------------------------|------------|
+| Chocolate Lava Cake | Chocolate lava cake served warm with a molten chocolate center.                        | 130        
+| Mango Tango Parfait | Layers of ripe mango chunks, creamy vanilla yogurt, and crunchy granola come together. | 150        |
+| Classic Tiramisu    | A timeless Italian dessert featuring layers of delicate coffee-soaked ladyfingers.     | 200        |
+| Mixed Berry Pavlova | A delicate meringue nest filled with a luscious combination of fresh strawberries, blueberries, and raspberries. | 240        |
+| Nutty Caramel Panna Cotta | Silky-smooth caramel-infused panna cotta topped with a generous sprinkle of chopped mixed nuts, adding a delightful crunch to every creamy spoonful.   | 120        |
+
 
