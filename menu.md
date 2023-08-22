@@ -1,7 +1,6 @@
 # KU Cafe Menu
-[Desserts Section](#desserts) | [Healthy Food Section](#healthy-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | [Thai Food](#thai-food)
 
-## First Food Section
+[Korean Food](#korean-food) | [Healthy Food Section](#healthy-food) | [Indian Food](#indian-food) | [Thai Food](#thai-food) | [Desserts Section](#desserts)
 
 ## Desserts
 
